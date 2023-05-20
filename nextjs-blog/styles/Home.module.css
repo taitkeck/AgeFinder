@@ -1,0 +1,13 @@
+.title {
+  display: flex;
+  justify-content: center;
+  width: 75%;
+  margin: auto;
+  text-align: center;
+  background-color: #ffb247;
+  color: #444c64;
+  padding: 12px;
+}
+.body {
+  background-color: #e1f2fc;
+}
